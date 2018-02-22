@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_maps);
         //configureButtonReader();
     }
-    /*
+    
     private void configureButtonReader() {
         final ImageButton buttonReader = (ImageButton)findViewById(R.id.btReader);
         buttonReader.setOnClickListener(new View.OnClickListener() {
@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         tvResult.setText(scan_result);
         Linkify.addLinks(tvResult, Linkify.ALL);
     }
-*/
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
