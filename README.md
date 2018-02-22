@@ -1,0 +1,1 @@
+# Take-QR-in-Android
